@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "141639557271",
+    "firebase_url": "https://tugasakhir-defcc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugasakhir-defcc",
+    "storage_bucket": "tugasakhir-defcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141639557271:android:ab6b23630313d52f4d49d2",
+        "android_client_info": {
+          "package_name": "com.example.papb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGXl-yuPQNK6I3ZN9toJefa9NAZLxP7Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
